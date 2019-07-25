@@ -1,6 +1,8 @@
-# Bona Kim*
+# Bona Kim #
+
 *Dream it. Believe it. Build it.*
-![Bona](url)
+
+![image](https://avatars0.githubusercontent.com/u/53227199?s=400&u=424b679e2c25d7226beffd9a70c0473508209ca1&v=4)
 
 
 ## Me as a summary
@@ -11,6 +13,7 @@ Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza
 
 
 ## Hobbies
+
 
 * Playing an instrument called 'Gayagum'
 * Indoor planting
