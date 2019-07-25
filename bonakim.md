@@ -6,6 +6,7 @@
 ## Me as a summary
 
 Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza 
+-------- | ------ | ---------------|-------------- | -------------
    21/06 |    F   |     purple     |  Spicy foods  |  [x]Yes / [ ]No 
 
 
