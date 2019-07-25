@@ -46,4 +46,4 @@ I was called "purple chin" by my family and friends.
 Have you ever had a purple chin?
 
 
-<< [previous]() || Bona Kim || [next]() >>
+<< [previous](https://github.com/Jeroen-Jozef/challenge-repository-Jeroen-Hendrickx/blob/master/README.md) || Bona Kim || [next](https://github.com/JosephLindzius/challenge-markdown/blob/master/Description.md) >>
